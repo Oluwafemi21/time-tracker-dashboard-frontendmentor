@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 
-- Live Site URL: [https://oluwafemi21.github.io/time-tracker-dashboard-frontendmentor/]https://oluwafemi21.github.io/time-tracker-dashboard-frontendmentor/)
+- Live Site URL: [https://oluwafemi21.github.io/time-tracker-dashboard-frontendmentor/](https://oluwafemi21.github.io/time-tracker-dashboard-frontendmentor/)
 
 ## My process
 
