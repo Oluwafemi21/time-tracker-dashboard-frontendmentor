@@ -77,7 +77,7 @@ Areas I will continue focuing in on future projects
 ## Author
 
 - Website - [Oluwafemi Olukoya]
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Oluwafemi21)
+- Frontend Mentor - [@Oluwafemi21](https://www.frontendmentor.io/profile/Oluwafemi21)
 - Twitter - [@femi_io](https://www.twitter.com/femi_io)
 
 
