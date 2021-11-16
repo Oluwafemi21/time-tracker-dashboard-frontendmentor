@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
+- Live Site URL: [https://oluwafemi21.github.io/time-tracker-dashboard-frontendmentor/]https://oluwafemi21.github.io/time-tracker-dashboard-frontendmentor/)
 
 ## My process
 
