@@ -83,4 +83,4 @@ Areas I will continue focuing in on future projects
 
 ## Acknowledgments
 
-Big Thanks To Mr Joshua for advicing me to develop myself more.
+Practice brings forth improvement.
